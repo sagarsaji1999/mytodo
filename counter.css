@@ -1,0 +1,18 @@
+body{
+    background-color: azure;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+
+}
+h1{
+   text-align: center; 
+}
+    
+.container{
+    padding: 100px;
+    width: min-content;
+    background-color: rgb(99, 162, 224);
+    border-radius: 2rem;
+}
